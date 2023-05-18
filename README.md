@@ -1,6 +1,7 @@
-# 
+# README Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  ##Table of Contents
+
+  ## Table of Contents
   *[Title](#title)
   *[Description](#description)
   *[Installation](#installation)
@@ -9,23 +10,29 @@
   *[Test](#test)
   *[Github](#userName)
   *[Email](#emailAddress)
-
-
-  
-*[license](#license) 
-
-
+  *[License](#license) 
 
   ## Description
-  
-  
-  
-  
-  
-  
-  
+  This is a simple project that generates a README file using Inquirer.
 
-  ##license 
-    
-    this project is licensed under MIT
+  ## Installation
+  The user can download the file onto their computer then use the command line 
+
+  ## Usage
+  To quickly create a README
+
+  ## Contribution
+  I welcome contributions to enhance this project
+
+  ## Test
+  Answer the questions and then see your README created
+
+  ## Github
+  https://github.com/amaraceresi
+
+  ## Email
+  aceresi95@icloud.com
+
+  ## License 
+  this project is licensed under MIT
 

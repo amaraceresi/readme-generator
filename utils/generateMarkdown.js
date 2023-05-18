@@ -48,11 +48,23 @@ function generateMarkdown(data) {
 
   ## Description
   ${data.description}
+
+  ## Installation
   ${data.installation}
+
+  ## Usage
   ${data.usage}
+
+  ## Contribution
   ${data.contribution}
+
+  ## Test
   ${data.test}
+
+  ## Github
   ${data.userName}
+
+  ## Email
   ${data.emailAddress}
 
   ${renderLicenseSection(data.license)}
