@@ -16,16 +16,16 @@
   This is a simple project that generates a README file using Inquirer.
 
   ## Installation
-  The user can download the file onto their computer then use the command line 
+  The user can download the file onto their computer then use the command line. 
 
   ## Usage
-  To quickly create a README
+  To quickly create a README.
 
   ## Contribution
-  I welcome contributions to enhance this project
+  I welcome contributions to enhance this project.
 
   ## Test
-  Answer the questions and then see your README created
+  Answer the questions and then see your README created.
 
   ## Github
   https://github.com/amaraceresi
@@ -34,5 +34,5 @@
   aceresi95@icloud.com
 
   ## License 
-  this project is licensed under MIT
+  This project is licensed under MIT.
 
